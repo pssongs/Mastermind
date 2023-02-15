@@ -18,6 +18,8 @@ class Game
       puts
       puts "Input four colors one by one in order"
       puts
+      puts key
+      puts
 
 
       first = gets.strip.downcase
